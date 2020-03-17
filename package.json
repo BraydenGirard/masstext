@@ -1,0 +1,16 @@
+{
+  "name": "mass-text",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sendText.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-array": "0.0.22",
+    "dotenv": "^8.2.0",
+    "twilio": "^3.40.0"
+  }
+}
