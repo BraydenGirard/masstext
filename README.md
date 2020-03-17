@@ -1,6 +1,7 @@
 # Mass Text
 ### Requirements
 - Node 10+
+- A Twillio account with an active number
 - CSV called **numbers.csv** in the root of the project with title of **phone** and 10 digit number entries starting with a **+** with no spaces (example below)
 ```
 phone
